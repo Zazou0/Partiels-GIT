@@ -50,12 +50,6 @@ Branch1
 *Branch2
 Branch3
 
-git branch
-Branch1
-*Branch2
-Branch3
-
-
 8) Dans quel ordre dois-je réaliser les 3 commandes ?
 
 git add fichier.html
